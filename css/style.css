@@ -1,0 +1,10 @@
+div {
+  column-count: 3;
+ column-rule-color: red;
+ column-gap: 40px;
+ column-rule-width: 1px;
+}
+
+header {
+    background-color: red
+}
