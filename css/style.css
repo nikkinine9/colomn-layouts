@@ -1,10 +1,18 @@
 div {
   column-count: 3;
- column-rule-color: red;
+ background-color: red;
+ column-rule-color: black;
  column-gap: 40px;
  column-rule-width: 1px;
+ text-align: center;
 }
 
 header {
-    background-color: red
+    background-color: red;
+    text-align: center;
+}
+
+footer {
+    background-color: red;
+    text-align: center;
 }
